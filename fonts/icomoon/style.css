@@ -1,0 +1,136 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?pvtuh3');
+	src:url('fonts/icomoon.eot?#iefixpvtuh3') format('embedded-opentype'),
+		url('fonts/icomoon.woff?pvtuh3') format('woff'),
+		url('fonts/icomoon.ttf?pvtuh3') format('truetype'),
+		url('fonts/icomoon.svg?pvtuh3#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-home:before {
+	content: "\e600";
+}
+.icon-newspaper:before {
+	content: "\e601";
+}
+.icon-pencil:before {
+	content: "\e602";
+}
+.icon-images:before {
+	content: "\e603";
+}
+.icon-calendar:before {
+	content: "\e604";
+}
+.icon-calendar2:before {
+	content: "\e605";
+}
+.icon-screen:before {
+	content: "\e606";
+}
+.icon-mobile:before {
+	content: "\e607";
+}
+.icon-tablet:before {
+	content: "\e608";
+}
+.icon-user:before {
+	content: "\e609";
+}
+.icon-users:before {
+	content: "\e60a";
+}
+.icon-zoomin:before {
+	content: "\e60b";
+}
+.icon-zoomout:before {
+	content: "\e60c";
+}
+.icon-expand:before {
+	content: "\e60d";
+}
+.icon-contract:before {
+	content: "\e60e";
+}
+.icon-cogs:before {
+	content: "\e60f";
+}
+.icon-cog:before {
+	content: "\e610";
+}
+.icon-hammer:before {
+	content: "\e611";
+}
+.icon-accessibility:before {
+	content: "\e612";
+}
+.icon-menu:before {
+	content: "\e613";
+}
+.icon-point-up:before {
+	content: "\e614";
+}
+.icon-point-right:before {
+	content: "\e615";
+}
+.icon-point-down:before {
+	content: "\e616";
+}
+.icon-point-left:before {
+	content: "\e617";
+}
+.icon-share:before {
+	content: "\e618";
+}
+.icon-mail:before {
+	content: "\e619";
+}
+.icon-googleplus:before {
+	content: "\e61a";
+}
+.icon-facebook:before {
+	content: "\e61b";
+}
+.icon-instagram:before {
+	content: "\e61c";
+}
+.icon-twitter:before {
+	content: "\e61d";
+}
+.icon-youtube:before {
+	content: "\e61e";
+}
+.icon-github:before {
+	content: "\e61f";
+}
+.icon-github2:before {
+	content: "\e620";
+}
+.icon-wordpress:before {
+	content: "\e621";
+}
+.icon-stackoverflow:before {
+	content: "\e622";
+}
+.icon-html5:before {
+	content: "\e623";
+}
+.icon-css3:before {
+	content: "\e624";
+}

@@ -1,0 +1,142 @@
+/*main.css*/
+
+body {
+	/*background-image: "img/seamlesstexture14_1200.jpg";*/
+	background:grey url("../img/seamlesstexture13_1200.jpg");
+}
+
+/*section header and title styleing*/
+
+
+.section_header {
+	text-align: center;
+	color: #f4421a;
+}
+/*done*/
+
+/*general text styling*/
+h1 {
+
+	font: normal 100%/1.4 sans-serif;
+	font-size: 58px;
+	line-height: 40px;
+	letter-spacing: -1px;color: #444;}
+
+h2 {
+	font-family: times, Times New Roman, times-roman, georgia, serif;
+	font-size: 48px;
+	line-height: 40px;
+	letter-spacing: -1px;
+	color: #444;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+    font-weight: 100;
+}
+
+p {
+	font-family: times, Times New Roman, times-roman, georgia, serif;
+	font-size: 24px;
+	line-height: 20px;
+	text-transform: uppercase;
+	color: #444;
+	padding: 1em;
+}
+
+.icon {
+	font-size: 5em;
+}
+
+/*done*/
+
+/*hover effects*/
+section a {  /*'section' makes sure nav is not affected*/
+ color:#000000;
+ /*background-color:#ffffff;*/
+ width: 120px;
+ height: 30px;
+ text-decoration:none;
+
+} 
+section a:hover {
+ color:#f4421a;
+ font: 10px;
+} 
+/*done*/
+
+/*content styling*/
+.main_content_div {
+	height: 500px;
+	width: 80%;
+	/*border: 1px solid black;*/    /*<<for testing*/
+	margin: 0 auto;
+}
+
+.main_content_div p h1 h2 h3 h4 h5 h6 {
+	padding: 1%;
+
+}
+
+/*done*/
+
+/*per 'page' appearance*/
+
+#home {
+
+}
+
+#about {
+
+}
+
+#portfolio {
+
+}
+
+#blog {
+
+}
+
+#services {
+
+}
+
+#contact {
+	/*background:grey url("../img/seamlesstexture14_1200.jpg");*/
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
